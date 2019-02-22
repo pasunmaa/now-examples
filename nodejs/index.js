@@ -1,5 +1,5 @@
 module.exports = (req, res) => {
-  res.end(`Hello from Node.js on Now 2.0!` + new Date());
+  res.end(`Hello from Node.js sample on Now 2.0!` + new Date());
 };
 
 /* module.exports = (req, res) => {
